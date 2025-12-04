@@ -1,0 +1,71 @@
+🌐 URL DE TU BOT PARA UPTIMEROBOT
+=====================================
+
+URL COMPLETA DEL BOT:
+https://3229d596-bdd7-4d27-9a24-253a0f8f8442-00-3upzqtgf24ou0.kirk.replit.dev
+
+URL PARA UPTIMEROBOT (Copia esta):
+https://3229d596-bdd7-4d27-9a24-253a0f8f8442-00-3upzqtgf24ou0.kirk.replit.dev/api/ping
+
+
+📋 CONFIGURACIÓN EN UPTIMEROBOT
+================================
+
+1. Monitor Type: HTTP(s)
+
+2. Friendly Name: SecureBot Pro
+
+3. URL (or IP): 
+   https://3229d596-bdd7-4d27-9a24-253a0f8f8442-00-3upzqtgf24ou0.kirk.replit.dev/api/ping
+
+4. Monitoring Interval: Every 5 minutes
+
+5. Monitor Timeout: 30 seconds
+
+6. HTTP Method: GET (HEAD) o GET
+
+7. Keyword Exists (Opcional): "ok":true
+
+
+✅ VERIFICAR QUE FUNCIONA
+=========================
+
+Abre esta URL en tu navegador:
+https://3229d596-bdd7-4d27-9a24-253a0f8f8442-00-3upzqtgf24ou0.kirk.replit.dev/api/ping
+
+Deberías ver:
+{"ok":true,"timestamp":1234567890}
+
+
+⚠️ IMPORTANTE
+=============
+
+- NO agregues :5000 al final
+- Usa HTTPS (con 's'), no HTTP
+- Copia la URL completa sin espacios
+- Asegúrate de incluir /api/ping al final
+
+
+🤖 FUNCIONAMIENTO 24/7
+======================
+
+Una vez configurado UptimeRobot:
+✅ Tu bot funcionará 24/7 en los servidores de Replit
+✅ No importa si apagas tu computadora
+✅ No importa si pierdes internet en tu casa
+✅ No importa si tu dispositivo se bloquea
+
+El bot está en la nube de Replit, no en tu computadora.
+
+
+📞 SI TIENES PROBLEMAS
+======================
+
+1. Verifica que la aplicación esté corriendo en Replit
+2. Prueba la URL en tu navegador primero
+3. Asegúrate de copiar la URL completa sin espacios
+4. Usa HTTPS, no HTTP
+5. No agregues puerto (:5000)
+
+
+Última actualización: Noviembre 13, 2025
